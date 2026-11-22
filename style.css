@@ -1,0 +1,27 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #f1f5f9;
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+.card {
+  width: 320px;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  border-left: 5px solid #0284c7;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.card h3 {
+  margin: 0 0 8px;
+  color: #0f172a;
+}
+
+.card p {
+  margin: 0;
+  color: #475569;
+  font-size: 14px;
+}
